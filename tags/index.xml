@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Ziyan Han</title>
-    <link>https://ZiyanHan.github.io/tags/</link>
-      <atom:link href="https://ZiyanHan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Junkai Sun</title>
+    <link>https://Rogersjk.github.io/tags/</link>
+      <atom:link href="https://Rogersjk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2019 09:23:18 +0000</lastBuildDate>
     <image>
-      <url>https://ZiyanHan.github.io/img/profile.jpg</url>
+      <url>https://Rogersjk.github.io/img/profile.jpg</url>
       <title>Tags</title>
-      <link>https://ZiyanHan.github.io/tags/</link>
+      <link>https://Rogersjk.github.io/tags/</link>
     </image>
     
     <item>
-      <title>Source Themes</title>
-      <link>https://ZiyanHan.github.io/tags/source-themes/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/tags/source-themes/</guid>
+      <title>Correlation;Predictive models;Urban areas;Matrix converters;Sparse matrices;Sun;Deep Learning;Spatio-temporal Data;Urban Computing</title>
+      <link>https://Rogersjk.github.io/tags/correlationpredictive-modelsurban-areasmatrix-converterssparse-matricessundeep-learningspatio-temporal-dataurban-computing/</link>
+      <pubDate>Mon, 30 Dec 2019 09:23:18 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/correlationpredictive-modelsurban-areasmatrix-converterssparse-matricessundeep-learningspatio-temporal-dataurban-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional random field</title>
+      <link>https://Rogersjk.github.io/tags/conditional-random-field/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/conditional-random-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire risk</title>
+      <link>https://Rogersjk.github.io/tags/fire-risk/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/fire-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network</title>
+      <link>https://Rogersjk.github.io/tags/neural-network/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal data</title>
+      <link>https://Rogersjk.github.io/tags/spatial-temporal-data/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/spatial-temporal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban computing</title>
+      <link>https://Rogersjk.github.io/tags/urban-computing/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/tags/urban-computing/</guid>
       <description></description>
     </item>
     

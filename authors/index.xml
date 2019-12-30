@@ -1,40 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Ziyan Han</title>
-    <link>https://ZiyanHan.github.io/authors/</link>
-      <atom:link href="https://ZiyanHan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Junkai Sun</title>
+    <link>https://Rogersjk.github.io/authors/</link>
+      <atom:link href="https://Rogersjk.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2019 09:23:18 +0000</lastBuildDate>
     <image>
-      <url>https://ZiyanHan.github.io/img/profile.jpg</url>
+      <url>https://Rogersjk.github.io/img/profile.jpg</url>
       <title>Authors</title>
-      <link>https://ZiyanHan.github.io/authors/</link>
+      <link>https://Rogersjk.github.io/authors/</link>
     </image>
     
     <item>
-      <title>admin</title>
-      <link>https://ZiyanHan.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/authors/admin/</guid>
+      <title>D. Qi</title>
+      <link>https://Rogersjk.github.io/authors/d.-qi/</link>
+      <pubDate>Mon, 30 Dec 2019 09:23:18 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/d.-qi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://ZiyanHan.github.io/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/authors/robert-ford/</guid>
+      <title>J. Sun</title>
+      <link>https://Rogersjk.github.io/authors/j.-sun/</link>
+      <pubDate>Mon, 30 Dec 2019 09:23:18 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/j.-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Zhang</title>
+      <link>https://Rogersjk.github.io/authors/j.-zhang/</link>
+      <pubDate>Mon, 30 Dec 2019 09:23:18 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/j.-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Zheng</title>
+      <link>https://Rogersjk.github.io/authors/y.-zheng/</link>
+      <pubDate>Mon, 30 Dec 2019 09:23:18 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/y.-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ZiyanHan.github.io/authors/ziyan-han/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/authors/ziyan-han/</guid>
-      <description>&lt;p&gt;I am now pursuing my PhD degree in Beihang University, supervised by &lt;a href=&#34;http://homepages.inf.ed.ac.uk/wenfei/&#34;&gt;Prof. Wenfei Fan&lt;/a&gt; and &lt;a href=&#34;http://act.buaa.edu.cn/dengt/&#34;&gt;Prof. Ting Deng&lt;/a&gt;. Prior to joining Beihang University in 2018, I completed my BSc in Computer Science at Xidian University. My research interests are focused on large-scale graph computing and their applications.&lt;/p&gt;
+      <link>https://Rogersjk.github.io/authors/junkai-sun/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/junkai-sun/</guid>
+      <description>&lt;p&gt;I am now a master student in Xidian University, supervised by &lt;a href=&#34;http://urban-computing.com/yuzheng&#34;&gt;Prof. Yu Zheng&lt;/a&gt; and &lt;a href=&#34;https://zhangjunbo.org/&#34;&gt;Junbo Zhang&lt;/a&gt;. Prior to that, I completed my BSc in Computer Science at Xidian University. My research interests are focused on spatio-temporal data mining and deep learning in urban computing.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bin Guo</title>
+      <link>https://Rogersjk.github.io/authors/bin-guo/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/bin-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junbo Zhang</title>
+      <link>https://Rogersjk.github.io/authors/junbo-zhang/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/junbo-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qianru Wang</title>
+      <link>https://Rogersjk.github.io/authors/qianru-wang/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/qianru-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifang Zhou</title>
+      <link>https://Rogersjk.github.io/authors/yifang-zhou/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/yifang-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Zheng</title>
+      <link>https://Rogersjk.github.io/authors/yu-zheng/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/yu-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zexia Hao</title>
+      <link>https://Rogersjk.github.io/authors/zexia-hao/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/zexia-hao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiwen Yu</title>
+      <link>https://Rogersjk.github.io/authors/zhiwen-yu/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/zhiwen-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiaofei Li</title>
+      <link>https://Rogersjk.github.io/authors/qiaofei-li/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/qiaofei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiuwen Yi</title>
+      <link>https://Rogersjk.github.io/authors/xiuwen-yi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/authors/xiuwen-yi/</guid>
+      <description></description>
     </item>
     
   </channel>

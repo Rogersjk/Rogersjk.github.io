@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial-temporal data | Junkai Sun</title>
+    <link>https://Rogersjk.github.io/tags/spatial-temporal-data/</link>
+      <atom:link href="https://Rogersjk.github.io/tags/spatial-temporal-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial-temporal data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Rogersjk.github.io/img/profile.jpg</url>
+      <title>Spatial-temporal data</title>
+      <link>https://Rogersjk.github.io/tags/spatial-temporal-data/</link>
+    </image>
+    
+    <item>
+      <title>CityGuard: Citywide Fire Risk Forecasting Using A Machine Learning Approach</title>
+      <link>https://Rogersjk.github.io/publication/deep-fire/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/publication/deep-fire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

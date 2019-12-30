@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Junkai Sun</title>
+    <link>https://Rogersjk.github.io/publication_types/0/</link>
+      <atom:link href="https://Rogersjk.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Rogersjk.github.io/img/profile.jpg</url>
+      <title>0</title>
+      <link>https://Rogersjk.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks</title>
+      <link>https://Rogersjk.github.io/publication/mvgcn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rogersjk.github.io/publication/mvgcn-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
